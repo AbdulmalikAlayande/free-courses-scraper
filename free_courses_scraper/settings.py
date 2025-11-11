@@ -82,11 +82,11 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 
 # Export settings
 FEEDS = {
-    "courses.json": {
+    "output/courses.json": {
         "format": "json",
         "encoding": "utf8",
         "overwrite": True,
         "indent": 4,
     },
-    "courses.csv": {"format": "csv", "encoding": "utf8", "overwrite": True},
+    "output/courses.csv": {"format": "csv", "encoding": "utf8", "overwrite": True},
 }

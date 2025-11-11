@@ -3,8 +3,8 @@ from free_courses_scraper.items import CourseItem
 import re
 
 
-class CoursesSpiderSpider(scrapy.Spider):
-    name = "courses_spider"
+class CoursesSpider(scrapy.Spider):
+    name = "courses"
     allowed_domains = ["answersq.com"]
     start_urls = ["https://answersq.com"]
 

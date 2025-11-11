@@ -6,7 +6,8 @@ from collections import defaultdict
 
 
 class CourseSearcher:
-    def __init__(self, json_file="courses.json"):
+
+    def __init__(self, json_file="output/courses.json"):
         """Initialize the searcher with course data"""
         self.courses = []
         self.load_courses(json_file)
