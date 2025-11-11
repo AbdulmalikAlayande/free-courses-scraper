@@ -120,7 +120,7 @@ Found 15 courses (showing top 15)
 
 ```bash
 git clone https://github.com/AbdulmalikAlayande/free-courses-scraper.git
-cd udemy-courses-scraper
+cd free-courses-scraper
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -325,7 +325,7 @@ python -c "from search_courses import CourseSearcher; s=CourseSearcher(); s.disp
 ## 📁 Project Structure
 
 ```
-udemy-courses-scraper/
+free-courses-scraper/
 │
 ├── free_courses_scraper/                 # Main Scrapy project directory
 │   ├── __init__.py
@@ -655,8 +655,8 @@ Contributions are welcome! Here's how you can help:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/udemy-courses-scraper.git
-cd udemy-courses-scraper
+git clone https://github.com/AbdulmalikAlayande/free-courses-scraper.git
+cd free-courses-scraper
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -703,8 +703,8 @@ This tool is for **educational purposes only**.
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/udemy-courses-scraper/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/udemy-courses-scraper/discussions)
+- **Issues:** [GitHub Issues](https://github.com/AbdulmalikAlayande/free-courses-scraper/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/AbdulmalikAlayande/free-courses-scraper/discussions)
 - **Email:** your.email@example.com
 
 ---
@@ -720,10 +720,10 @@ This tool is for **educational purposes only**.
 
 ## 📈 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/udemy-courses-scraper?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/udemy-courses-scraper?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/udemy-courses-scraper)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/udemy-courses-scraper)
+![GitHub stars](https://img.shields.io/github/stars/AbdulmalikAlayande/free-courses-scraper?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AbdulmalikAlayande/free-courses-scraper?style=social)
+![GitHub issues](https://img.shields.io/github/issues/AbdulmalikAlayande/free-courses-scraper)
+![GitHub last commit](https://img.shields.io/github/last-commit/AbdulmalikAlayande/free-courses-scraper)
 
 ---
 
@@ -746,6 +746,6 @@ This tool is for **educational purposes only**.
 
 Made with ❤️ by [Your Name](https://github.com/yourusername)
 
-[Report Bug](https://github.com/yourusername/udemy-courses-scraper/issues) · [Request Feature](https://github.com/yourusername/udemy-courses-scraper/issues)
+[Report Bug](https://github.com/AbdulmalikAlayande/free-courses-scraper/issues) · [Request Feature](https://github.com/AbdulmalikAlayande/free-courses-scraper/issues)
 
 </div>
