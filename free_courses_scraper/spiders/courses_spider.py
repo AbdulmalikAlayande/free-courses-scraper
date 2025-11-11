@@ -1,5 +1,5 @@
 import scrapy
-from freecoursesscraper.items import CourseItem
+from free_courses_scraper.items import CourseItem
 import re
 
 

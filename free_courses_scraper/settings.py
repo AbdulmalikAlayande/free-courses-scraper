@@ -1,7 +1,7 @@
-BOT_NAME = "freecoursesscraper"
+BOT_NAME = "free_courses_scraper"
 
-SPIDER_MODULES = ["freecoursesscraper.spiders"]
-NEWSPIDER_MODULE = "freecoursesscraper.spiders"
+SPIDER_MODULES = ["free_courses_scraper.spiders"]
+NEWSPIDER_MODULE = "free_courses_scraper.spiders"
 
 ADDONS = {}
 
