@@ -119,7 +119,7 @@ Found 15 courses (showing top 15)
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/udemy-courses-scraper.git
+git clone https://github.com/AbdulmalikAlayande/free-courses-scraper.git
 cd udemy-courses-scraper
 ```
 
